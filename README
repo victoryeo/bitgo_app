@@ -3,3 +3,7 @@ This app demostrate the use of BitGoJS SDK.
 It is tested with BitGoJS library version: 11.16.0
 
 The output file contains the example output of app.js
+
+For the BitGo access token, there are prod and test version. 
+Please go to BitGo website to create the prod access token. 
+Alternatively, please go to BitGo test website to create the test access token.
