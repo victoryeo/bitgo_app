@@ -1,3 +1,5 @@
 This app demostrate the use of BitGoJS SDK.
 
 It is tested with BitGoJS library version: 11.16.0
+
+The output file contains the example output of app.js
